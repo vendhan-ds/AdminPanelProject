@@ -1,0 +1,7 @@
+.cityCard{
+    display:flexbox;
+    /* border: 2px solid ; */
+    width: 300px;
+    padding: 20px;
+    margin: 30px;
+}
